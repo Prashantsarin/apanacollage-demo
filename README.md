@@ -1,2 +1,2 @@
 # apanacollage-demo
-Author - Prashant Nikam
+Author - Prashant Nikam  Surat
